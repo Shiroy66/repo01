@@ -16,7 +16,8 @@
 
     ![Configuracion_de_terminal](Imagenes/captura1.png)  
       
-    Acto seguido seleccionaremos GitBash como terminal por defecto y ya podremos trabajar con la consola de Git, esta deberia de verse así:
+    Acto seguido seleccionaremos GitBash como terminal por defecto y ya podremos trabajar con la consola de Git, esta deberia de verse así:  
+    
     ![terminal_de_git](Imagenes/captura2.png)  
       
 3.  **Creación de repositorio**  
